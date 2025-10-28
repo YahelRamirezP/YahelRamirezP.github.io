@@ -4,8 +4,8 @@
 
 title: Yahel Ramírez | Robotics & AI # the website title (if blank, full name will be used instead)
 first_name: Yahel
-middle_name: 
-last_name: Ramirez 
+middle_name:
+last_name: Ramirez
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -192,13 +192,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-   # 🔹 Secciones que quiero ocultar
-  - _posts/                # blog
+    # 🔹 Secciones que quiero ocultar
+  - _posts/ # blog
   - _pages/blog.md
-  - _books/                # bookshelf
+  - _books/ # bookshelf
   - _pages/books.md
   - _pages/repositories.md # repositorios
-  - _pages/people.md       # página de "people" si existiera
+  - _pages/people.md # página de "people" si existiera
 keep_files:
   - CNAME
   - .nojekyll
